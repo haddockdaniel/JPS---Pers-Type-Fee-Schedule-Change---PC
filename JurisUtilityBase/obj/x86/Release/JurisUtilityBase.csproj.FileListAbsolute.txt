@@ -1,0 +1,93 @@
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.exe.config
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.ResolveComReference.cache
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.exe.manifest
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.application
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.exe
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.pdb
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\C1.C1Report.4.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\C1.Win.C1Input.4.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\C1.Win.C1Report.4.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\Gizmox.Extensions.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\Ionic.Zlib.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisAuthenticator.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisDBO21.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisIDef21.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisStr21.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisStr221.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisSVR21.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csprojResolveAssemblyReference.cache
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.UtilityBaseMain.resources
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.Properties.Resources.resources
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.SplashScreen.resources
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.GenerateResource.Cache
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.exe.manifest
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.application
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.exe
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.pdb
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\bin\x86\Release\C1.C1Report.4.dll
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\bin\x86\Release\C1.Win.C1Input.4.dll
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\bin\x86\Release\C1.Win.C1Report.4.dll
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\bin\x86\Release\Costura.dll
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\bin\x86\Release\Gizmox.Extensions.dll
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\bin\x86\Release\Ionic.Zlib.dll
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\bin\x86\Release\JurisAuthenticator.dll
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\bin\x86\Release\JurisDBO21.dll
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\bin\x86\Release\JurisIDef21.dll
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\bin\x86\Release\JurisStr21.dll
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\bin\x86\Release\JurisStr221.dll
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\bin\x86\Release\JurisSVR21.dll
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\bin\x86\Release\Costura.xml
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csprojAssemblyReference.cache
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.ResolveComReference.cache
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.PrinterDialog.resources
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.ReportDisplay.resources
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.UtilityBaseMain.resources
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.Properties.Resources.resources
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.SplashScreen.resources
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.GenerateResource.cache
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CoreCompileInputs.cache
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.Fody.CopyLocal.cache
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CopyComplete
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\bin\x86\Release\JPS – Update Client Matter Reporting.Nicknames.exe.config
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\bin\x86\Release\JPS – Update Client Matter Reporting.Nicknames.exe.manifest
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\bin\x86\Release\JPS – Update Client Matter Reporting.Nicknames.application
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\bin\x86\Release\JPS – Update Client Matter Reporting.Nicknames.exe
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\bin\x86\Release\JPS – Update Client Matter Reporting.Nicknames.pdb
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\obj\x86\Release\JPS – Update Client Matter Reporting.Nicknames.exe.manifest
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\obj\x86\Release\JPS – Update Client Matter Reporting.Nicknames.application
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\obj\x86\Release\JPS – Update Client Matter Reporting.Nicknames.exe
+D:\Projects\JPS - Update Client Matter Reporting.Nicknames\JurisUtilityBase\obj\x86\Release\JPS – Update Client Matter Reporting.Nicknames.pdb
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csprojAssemblyReference.cache
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.ResolveComReference.cache
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.PrinterDialog.resources
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.ReportDisplay.resources
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.UtilityBaseMain.resources
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.Properties.Resources.resources
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.SplashScreen.resources
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.GenerateResource.cache
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CoreCompileInputs.cache
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\bin\x86\Release\JPS - Pers Type Fee Schedule Change - PC.exe.config
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\bin\x86\Release\JPS - Pers Type Fee Schedule Change - PC.exe.manifest
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\bin\x86\Release\JPS - Pers Type Fee Schedule Change - PC.application
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\bin\x86\Release\JPS - Pers Type Fee Schedule Change - PC.exe
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\bin\x86\Release\JPS - Pers Type Fee Schedule Change - PC.pdb
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\bin\x86\Release\C1.C1Report.4.dll
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\bin\x86\Release\C1.Win.C1Input.4.dll
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\bin\x86\Release\C1.Win.C1Report.4.dll
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\bin\x86\Release\Costura.dll
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\bin\x86\Release\Gizmox.Extensions.dll
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\bin\x86\Release\Ionic.Zlib.dll
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\bin\x86\Release\JurisAuthenticator.dll
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\bin\x86\Release\JurisDBO21.dll
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\bin\x86\Release\JurisIDef21.dll
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\bin\x86\Release\JurisStr21.dll
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\bin\x86\Release\JurisStr221.dll
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\bin\x86\Release\JurisSVR21.dll
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\bin\x86\Release\Costura.xml
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.Fody.CopyLocal.cache
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\obj\x86\Release\JPS - Pers Type Fee Schedule Change - PC.TrustInfo.xml
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\obj\x86\Release\JPS - Pers Type Fee Schedule Change - PC.exe.manifest
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\obj\x86\Release\JPS - Pers Type Fee Schedule Change - PC.application
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CopyComplete
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\obj\x86\Release\JPS - Pers Type Fee Schedule Change - PC.exe
+D:\Projects\JPS - Pers Type Fee Schedule Change - PC\JurisUtilityBase\obj\x86\Release\JPS - Pers Type Fee Schedule Change - PC.pdb
